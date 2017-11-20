@@ -1,4 +1,7 @@
 class Movie():
+"""The class Movie contains the attributes for a movie
+
+"""
     def __init__(self, title, poster_image_url, trailer_youtube_url):
         """The __init__ method is used to instantiate movie objects
         
