@@ -1,7 +1,7 @@
 import fresh_tomatoes
 import media
 
-# Creating the Movie object instances using the Movie Class 
+# Creating the Movie object instances using the Movie Class
 mean_girls = media.Movie("Mean Girls",
     "https://upload.wikimedia.org/wikipedia/en/a/ac/Mean_Girls_film_poster.png",  # NOQA
     "https://www.youtube.com/watch?v=KAOmTMCtGkI")
