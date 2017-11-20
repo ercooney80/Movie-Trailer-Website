@@ -3,7 +3,7 @@ import media
 
 # Creating the Movie object instances using the Movie Class 
 mean_girls = media.Movie("Mean Girls",
-    "https://upload.wikimedia.org/wikipedia/en/8/8f/Mean_Girls_movie.jpg",  # NOQA
+    "https://upload.wikimedia.org/wikipedia/en/a/ac/Mean_Girls_film_poster.png",  # NOQA
     "https://www.youtube.com/watch?v=KAOmTMCtGkI")
 
 justice_league = media.Movie("Justice League",
